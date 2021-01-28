@@ -1,0 +1,56 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-01-27T20:33:08.464Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "The CRM software fixed",
+      "attention": false,
+      "tech": "Jerry Emmanuel",
+      "date": "2021-01-27T20:32:47.773Z"
+    },
+    {
+      "message": "User API Fixed",
+      "attention": false,
+      "tech": "Jerry Emmanuel",
+      "date": "2021-01-27T19:37:09.976Z",
+      "id": 6
+    },
+    {
+      "message": "Webiste 98765 proposal need attention",
+      "attention": true,
+      "tech": "John Smit",
+      "date": "2021-01-28T09:34:59.193Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Oloyede",
+      "lastName": "Ayomikun",
+      "id": 3
+    }
+  ]
+}
